@@ -1,4 +1,4 @@
-# Indian Sales Insights Dashboard
+# India Sales Insights Dashboard
 
 ### Dashboard Link: [Power Bi Dashboard](https://app.powerbi.com/groups/me/reports/1fa24168-3851-47d3-8ce9-f65c354b5fd9/a2b94f593e92c9542a94?experience=power-bi)
 
