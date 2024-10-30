@@ -2,7 +2,6 @@
 
 ### Dashboard Link: [Power Bi Dashboard](https://app.powerbi.com/groups/me/reports/1fa24168-3851-47d3-8ce9-f65c354b5fd9/a2b94f593e92c9542a94?experience=power-bi)
 
-
 ## Problem Statement
 
 This dashboard provides a comprehensive overview of sales trends across India from 2017 to 2020, enabling analysts and decision-makers to understand sales performance, revenue generation, and profit distribution across various regions and product categories. By identifying key sales metrics such as revenue growth, profit margins, and sales quantities, businesses can make data-driven decisions to optimize strategies and maximize profitability.
@@ -162,6 +161,11 @@ The dashboard highlights both strong and underperforming areas, allowing stakeho
 5. **Summary Cards**: Display overall metrics like Total Revenue (₹985M), Total Sales Quantity (2M), and Overall Profit Margin.
 
 6. **Top 5 Customers and Products**: Separate visuals highlight top customers and products based on revenue, aiding in product and customer prioritization.
+
+### Report Snapshot (Power BI DESKTOP)
+![Screenshot 2024-10-28 064327](https://github.com/user-attachments/assets/1f495fe2-493b-47d7-bc0a-92c40a30b074).
+
+![Screenshot 2024-10-28 063735](https://github.com/user-attachments/assets/7fe68ead-5f5f-4673-bb70-b7cfd9385e4b)
 
 ### Insights
 
