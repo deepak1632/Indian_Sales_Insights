@@ -78,6 +78,7 @@ The dashboard highlights both strong and underperforming areas, allowing stakeho
 7. **Top 5 Customers and Products**: Separate visuals highlight top customers and products based on revenue, aiding in product and customer prioritization.
 
 ### Report Snapshot (Power BI DESKTOP)
+
 ![Screenshot 2024-10-28 064327](https://github.com/user-attachments/assets/1f495fe2-493b-47d7-bc0a-92c40a30b074).
 
 ![Screenshot 2024-10-28 063735](https://github.com/user-attachments/assets/7fe68ead-5f5f-4673-bb70-b7cfd9385e4b)
